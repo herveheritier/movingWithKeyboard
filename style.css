@@ -1,0 +1,18 @@
+h1, h2 {
+  font-family: Lato;
+}
+#gameBoard {
+  border: 1px solid black;
+  width: 640px;
+  height: 480px;
+}
+
+#player {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  border-radius: 25px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
